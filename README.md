@@ -1,7 +1,7 @@
-# blog-image
-**用来存储博客文章需要使用的图片**
+# Blog-image
+**使用PicGo插件和GIthub实现图床功能**
 
-下面为你详细介绍 PicGo（以命令行版 PicGo-Core 为例）的完整配置流程，包括图床选择、参数配置、测试验证等步骤：
+下面为你详细介绍 PicGo（以命令行版 PicGo-Core 为例）的完整配置流程：
 
 ### 一、准备工作
 安装 PicGo-Core（已安装可跳过）
