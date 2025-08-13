@@ -1,5 +1,5 @@
 # Blog-image
-**使用PicGo插件和GIthub实现图床功能**
+**使用PicGo插件和Github实现图床功能**
 
 下面为你详细介绍 PicGo（以命令行版 PicGo-Core 为例）的完整配置流程：
 
